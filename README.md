@@ -1,1 +1,3 @@
-# SimpleLitNetLibSample
+# SimpleLiteNetLibSample
+
+LiteNetLib + Unity
