@@ -252,6 +252,8 @@ MonoBehaviour:
   _address: 192.168.3.18
   _port: 8764
   _key: SampleKey
+  _playerPrefab: {fileID: 7389709181024770663, guid: 8c1c2cc7edc59564b8f07fcaa1dccab7,
+    type: 3}
 --- !u!4 &8566074
 Transform:
   m_ObjectHideFlags: 0
