@@ -1042,6 +1042,7 @@ MonoBehaviour:
   _port: 8764
   _updateTime: 15
   _leftButon: {fileID: 522058294}
+  _centerButton: {fileID: 1575993379}
   _rightButon: {fileID: 540529233}
 --- !u!4 &1269597839
 Transform:
