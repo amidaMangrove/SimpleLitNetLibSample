@@ -249,8 +249,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99cbc3f7817aa274ab612202d0ede587, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _address: 192.168.3.18
-  _port: 8764
+  _address: 0
+  _port: 0
   _key: SampleKey
   _playerPrefab: {fileID: 7389709181024770663, guid: 8c1c2cc7edc59564b8f07fcaa1dccab7,
     type: 3}
